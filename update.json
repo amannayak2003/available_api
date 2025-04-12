@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0.4",
-  "latest_build": "2",
-  "update_url": "https://firebasestorage.googleapis.com/v0/b/mediavault-17b63.firebasestorage.app/o/app-release.apk?alt=media&token=993f42f5-84b8-4889-9fe8-f15dce5a8840",
-  "force_update": false
+  "latest_version": "1.0.5",
+  "latest_build": "3",
+  "update_url": "https://firebasestorage.googleapis.com/v0/b/mediavault-17b63.firebasestorage.app/o/app-release.apk?alt=media&token=3d9fe1fd-0136-4cb3-b36d-52ad027a8173",
+  "force_update": true
 }
